@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: sprint-cucumber
+
+
+logging:
+    level:
+        root: OFF
